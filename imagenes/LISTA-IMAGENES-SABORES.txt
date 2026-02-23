@@ -1,0 +1,11 @@
+# Imágenes necesarias por sabor
+# Coloca cada imagen en esta carpeta (imagenes/) con exactamente este nombre.
+# El HTML usa extensión .jpg; si usas .png, renombra el archivo a .jpg o edita index.html.
+
+Maracuyá     →  maracuya.jpg
+Mora         →  mora.jpg
+Jamaica      →  jamaica.jpg
+Tamarindo    →  tamarindo.jpg
+Nance        →  nance.jpg
+Naranja Agria → naranja-agria.jpg
+Limón y Fresa → limon-fresa.jpg
